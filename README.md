@@ -1,2 +1,3 @@
 # jenkinsproject
-first_hello='hello'cccccc fffffff
+first_hello='hello'
+second_hello='ccccccfffffff'
